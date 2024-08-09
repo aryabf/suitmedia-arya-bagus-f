@@ -10,7 +10,7 @@ class PalindromeTest {
     }
 
     @Test
-    fun palindromeTest(): Unit {
+    fun palindromeTest() {
         assert(isPalindrome("kasur rusak"))
         assert(isPalindrome("step on no pets"))
         assert(isPalindrome("put it up"))

@@ -9,7 +9,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.project.suitmediaaryabagusf.R
 import com.project.suitmediaaryabagusf.databinding.ActivityHomeBinding
-import com.project.suitmediaaryabagusf.utils.Utils
 
 class HomeActivity : AppCompatActivity() {
 
