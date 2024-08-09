@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SuitmediaAryaBagusF</string>
+    <string name="home_add_icon">Home Add Icon</string>
+    <string name="check">CHECK</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="next">NEXT</string>
+    <string name="back_button">Back Button</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="name_sample">John Doe</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="sample_user_name">Selected User Name</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="email_sample">EMAIL@EMAIL.COM</string>
+    <string name="failed_to_fetch_data">Failed to Fetch Data</string>
+</resources>
